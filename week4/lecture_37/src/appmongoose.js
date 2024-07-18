@@ -1,7 +1,7 @@
 const mongoose=require("mongoose")
 const connect=mongoose.connect;
 
-const MONGO_URL="mongodb+srv://prince1291:dlSpQdtxOFE5PrgU@cluster0.yjue12e.mongodb.net"
+const MONGO_URL="mongodb+srv://priyanshu1singh11:<password>@cluster0.iilsuzr.mongodb.net"
 
 const DB_NAME="sample_mflix"
 
